@@ -1,6 +1,7 @@
 # Lab-1
 Barrel Shifter
 
+Video link: https://youtu.be/FPkMa-zqXnU
 
 Multi barrel shifter:
 
